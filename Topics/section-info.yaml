@@ -1,0 +1,22 @@
+content:
+- Introduction to Java
+- Overview of the basic program
+- Printing data
+- Scanning the input
+- Conditional statement
+- Increment and decrement
+- The for-loop
+- The while and do-while loops
+- Array
+- Iterating over arrays
+- Multidimensional array
+- Switch statement
+- Declaring a method
+- Functional decomposition
+- Arrays as parameters
+- String (1)
+- String (2)
+- Errors in programs
+- What is an exception
+- NPE
+- Array exceptions
